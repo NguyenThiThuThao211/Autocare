@@ -1,0 +1,5 @@
+.env
+.env.*
+.env.dusk.local
+/vendor/
+node_modules/
